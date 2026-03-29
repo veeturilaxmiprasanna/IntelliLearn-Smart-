@@ -1,0 +1,5 @@
+{
+  "name": "IntelliLearn Smart",
+  "description": "A student learning tracker and recommendation system with quiz tracking, study planning, and progress visualization.",
+  "requestFramePermissions": []
+}
